@@ -1,0 +1,3 @@
+[submodule "sub_base"]
+	path = sub_base
+	url = https://github.com/speed0dev/sub_base.git
